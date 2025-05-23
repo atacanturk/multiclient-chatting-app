@@ -1,7 +1,7 @@
 ### Multi-threaded chatting app written in C. 
 It uses the TCP sockets to establish connections between multiple clients and the server. 
 
-The server acts as a bridge between clients
+The server acts as a bridge between clients.
 
 The server can handle multiple client requests concurrently, with each client request running on a separate thread.
 
